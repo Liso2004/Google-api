@@ -1,0 +1,13 @@
+node_modules/
+dist/
+.env
+.DS_Store
+.vscode/
+coverage/
+npm-debug.log
+yarn-error.log
+.idea/
+*.log
+spartan-concord-434800-v0-e229d215bb78.json
+google.json
+*.code-workspace
